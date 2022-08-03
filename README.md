@@ -1,7 +1,7 @@
 ### Heya there! I'm _Ferry_ 👋
 ---
 #### About Me
-- 🎓 I'm a IT student
+- 🎓 I'm an IT student
 - 🌱 I’m currently learning full-stack web development
 - ✨ Soon, I want to make this account more useful~
 ---
