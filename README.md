@@ -2,7 +2,7 @@
 ---
 #### About Me
 - 🎓 An IT student
-- 🌱 Currently learning full-stack web development and mobile development
+- 🌱 Currently learning full-stack web development and software development
 - ✨ Soon, I want to make this account more useful~
 ---
 
