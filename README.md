@@ -1,9 +1,14 @@
 ### Heya there! I'm _Ferry_ 👋
 ---
 #### About Me
-- 🎓 An IT student
-- 🌱 Currently learning full-stack web development and software development
-- ✨ Soon, I want to make this account more useful~
+- 🎓 An undergraduate currently studying Informatics
+- 🌱 Interested in learning:
+  - Web development
+  - Game development
+  - Mobile development
+  - Actually, software development in general
+  - Digital Art and Graphic Design
+- ✨ Soon, I want to make this account more active and useful~
 ---
 <p align="center">
   <a href="https://github.com/Raixard">
