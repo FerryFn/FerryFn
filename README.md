@@ -1,19 +1,29 @@
-### Heya there! I'm _Ferry_ 👋
----
-#### About Me
+## ¡Hola! I'm Ferry 👋
+
 - 🎓 An undergraduate currently studying Informatics
-- 🌱 Interested in learning:
-  - Web development
-  - Game development
-  - Mobile development
-  - Actually, software development in general
-  - Digital Art and Graphic Design
-- ✨ Soon, I want to make this account more active and useful~
----
+- 🛠 My most used tools:
+  - Web development<br>
+    <img src="https://img.shields.io/badge/-HTML-4F5D95?logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/-CSS-4F5D95?logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/-JavaScript-4F5D95?logo=javascript&logoColor=white" alt="JavaScript">
+    <img src="https://img.shields.io/badge/-PHP-4F5D95?logo=php&logoColor=white" alt="PHP">
+    <br>
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-4F5D95?logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+    <img src="https://img.shields.io/badge/-Laravel-4F5D95?logo=laravel&logoColor=white" alt="Laravel">
+    <img src="https://img.shields.io/badge/-MySQL-4F5D95?logo=mysql&logoColor=white" alt="MySQL">
+  - Game development<br>
+    <img src="https://img.shields.io/badge/-C%23-4F5D95?logo=csharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/-Unity-4F5D95?logo=unity&logoColor=white" alt="Unity">
+  - Digital art and graphic design<br>
+    <img src="https://img.shields.io/badge/-Affinity%20Photo-4F5D95?logo=affinityphoto&logoColor=white" alt="Affinity Photo">
+    <img src="https://img.shields.io/badge/-Affinity%20Designer-4F5D95?logo=affinitydesigner&logoColor=white" alt="Affinity Designer">
+    <img src="https://img.shields.io/badge/-Blender-4F5D95?logo=blender&logoColor=white" alt="Blender">
+  - Other<br>
+    <img src="https://img.shields.io/badge/-Python-4F5D95?logo=python&logoColor=white" alt="Python">
+- 📚 Trying to explore and learn more!
+
 <p align="center">
   <a href="https://github.com/Raixard">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=raixard&theme=outrun&show_icons=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats&card_width=400" />
-    <br />
-    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raixard&layout=compact&theme=outrun&langs_count=8&card_width=330&hide=jupyter%20notebook" />
+    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raixard&layout=compact&theme=outrun&langs_count=8&card_width=330&hide=jupyter%20notebook">
   </a>
 </p>
