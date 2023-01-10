@@ -24,6 +24,6 @@
 
 <p align="center">
   <a href="https://github.com/Raixard">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerryF&layout=compact&theme=outrun&langs_count=8&card_width=330&hide=jupyter%20notebook">
+    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerryFn&layout=compact&theme=outrun&langs_count=8&card_width=330&hide=jupyter%20notebook">
   </a>
 </p>
