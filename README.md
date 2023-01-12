@@ -23,7 +23,7 @@
 - 📚 Trying to explore and learn more!
 
 <p align="center">
-  <a href="https://github.com/Raixard">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerryFn&layout=compact&theme=outrun&langs_count=8&card_width=330&hide=jupyter%20notebook">
+  <a href="https://github.com/FerryFn">
+    <img width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FerryFn&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=shades-of-purple">
   </a>
 </p>
